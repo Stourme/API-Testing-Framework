@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Automation\\Testing.Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|d:\\projects\\automation\\testing.common\\frameworktest\\tests\\weathertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|solutionrelative:frameworktest\\tests\\weathertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|d:\\projects\\automation\\testing.common\\frameworktest\\contracts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|solutionrelative:frameworktest\\contracts\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|d:\\projects\\automation\\testing.common\\frameworktest\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB68C94-DAA8-410A-AC3A-AC98186F565B}|FrameworkTest\\FrameworkTest.csproj|solutionrelative:frameworktest\\tests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Contracts\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "FrameworkTest\\Contracts\\WeatherForecast.cs",
+              "ToolTip": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Contracts\\WeatherForecast.cs",
+              "RelativeToolTip": "FrameworkTest\\Contracts\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:04:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Tests\\TestBase.cs",
+              "RelativeDocumentMoniker": "FrameworkTest\\Tests\\TestBase.cs",
+              "ToolTip": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Tests\\TestBase.cs",
+              "RelativeToolTip": "FrameworkTest\\Tests\\TestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T22:53:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherTest.cs",
+              "DocumentMoniker": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Tests\\WeatherTest.cs",
+              "RelativeDocumentMoniker": "FrameworkTest\\Tests\\WeatherTest.cs",
+              "ToolTip": "D:\\Projects\\Automation\\Testing.Common\\FrameworkTest\\Tests\\WeatherTest.cs",
+              "RelativeToolTip": "FrameworkTest\\Tests\\WeatherTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:58:13.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
