@@ -99,3 +99,7 @@ wwwroot/lib/
 # Local configuration
 appsettings.Development.json
 appsettings.Local.json
+
+# Ignore build folders
+bin/
+obj/

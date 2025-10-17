@@ -35,8 +35,5 @@ namespace FrameworkTest.Tests
             containsAny.Should().BeTrue();
 
         }
-
-
-
     }
 }
